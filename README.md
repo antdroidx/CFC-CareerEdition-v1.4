@@ -1,80 +1,83 @@
-# CFB-Coach
 
 **College Football Coach: Career Edition**
+https://play.google.com/store/apps/details?id=antdroid.cfbcoach
+
 
 After getting permission from /u/jonesguy14 to post this, I am now releasing my expansion of College Football Coach for android. It's still in development, but should be fully functional now.
 Please share comments, suggestions, bugs, etc.
 
-_Implemented Updates/Features:_
+College Football Coach: Career Edition is a re-imagining and expansion of the popular Football Coach game. This game adds thousands of new lines of code and puts you in the role of a head coach of a college football dynasty in a totally dynamic and fully customizable game universe!
 
-**[General]**
-* Game Editor: Ability to edit team names, conference names, and coach names updated
-* Career Mode: Start as a new hire coach and work your way to the top! Just don't get fired! new
-* Expanded universe (i.e. 120 teams and new conferences)
-* 12 Team Conferences
-* Expanded to 18 Bowl Games + CFB Playoffs
-* Names database is now over 20,000 first and last names
-* Improved scheduling logic (Out of Conf schedule changes each season)
-* More in-depth News and Features
-* Geographic Home Regions
-* Import Custom Universe from text file
-* Import Custom Rosters from text file
-* Import Custom Coaches from text file
+Use your recruiting, game planning, and roster management skills to take your college to the top! But don't get fired!
 
+Game Manual is now available at http://www.Antdroid.dev
 
-**[Game Simulation]**
-* New Player Positions (1 TE, 2 Safeties, 3 LBs, 4 DLs, Kick Returners, etc.)
-* New Head Coach position which affects player progression new
-* More Player Attributes new
-* New Sim Game logic updated
-* New plays & actions within game simulation updated
-* New offense/defense schemes (5 on offense/4 on defense)
-* Defensive Player stats & tracking new
-* Off-season Coaching changes & Infraction system for balancing gameplay
-* Small/Low prestige schools with NFL high draft talent get bonus prestige
-* Head Coach Team Strategies
-* Updates with internal game algorithms updated
-* Improved poll logic for weeding out smaller conference/weaker schedules updated
-* Improved prestige growth/decline logic updated
-* Medical Redshirting new
-* Undergrad & Graduate Transfers
-* Player Suspensions and Dismissals
-* Full Game Play-by-Play Logging Option
-* Year End Awards
-
-**[Interface]**
-* UI Re-Design (more buttons!)
-* Updated Material Dark design
-* Full Teaam history
-* AP Poll History Menu
-* More team and player stats updated
-* Player Individual Rankings Menu new
-* Game Summary Box Scores new
-* Weekly Scoreboard new
-* Rivalry Games denoted on schedule
-* Upcoming games news feature new
-* Other things under the hood
+*** 2019 Season Update ***
++ New starting year and data
++ New Dashboard UI
++ New Player and Staff Profiles
++ Added Offensive and Defensive Coordinators
++ In-Game Injuries
++ More stats and stat tracking year by year
++ Accept or Decline Transfer Requests
++ Re-wrote a lot of code for speed, tweaks and optimizations
++ Added ability to save prior to recruiting
++ Much more!
 
 
-Github source code & apk download:
-https://github.com/antdroidx/CFB-Coach/
+**FAQ**
+
+* * * ABOUT SAVING GAMES * * *
+This game is currently designed to be played a full season at a time. Save files will always start at the beginning of the season in which the save was made. At the START of each season, a pop up will ask you to save the game. You can also save games just prior to recruiting!
+
+**PLAY BY PLAY**
+To view game play log, click SCHEDULE, then choose the game you want to view by pressing the Score Box. Then when the pop up appears, click on the blue menu bar at the top.
+
+**HELP**
+Feel free to ask questions via reddit community at /r/footballcoach
+
+As this game is completely free and open source, any help would be appreciated. This game was developed by one guy and is being continued on by myself in my spare time. If you do come across any bugs or issues, please post to reddit, github or contact me. Constructive criticism and feedback are appreciated!
 
 
-**Installation**
 
-Go to github (use desktop version if on phone - link to switch is at bottom of the page)
-Download the "apk" file to your phone or to your PC (and then transfer to your phone)
-Once on your phone, use a file manager, if necessary, to install the APK.
+Game Features include:
 
+[General]
+Career Mode: Start as a new hire coach and work your way to the top! Just don't get fired!
+Hire Coordinators to your Staff
+Import Custom Universe, Custom Rosters and Custom Coaches from text file
+Game Editor: Ability to edit team names, conference names, and coach names
+Realistic Conference and Team Structures
+Bowl Games + 4-team Playoffs including Expanded Playoffs Option
+Gigantic Names database with over 7000 first and last names
+Geographic Home Regions
+Optional Television Contract Deals
+Optional Conference Realignment Features
+Optional random Team Generation from Lower Tiers
+Optional Promotion/Relegation System Mode
+Full League, Team, Coach and Player Stats & history
+Player Awards 
+Game Summary Box Scores & Play Logging
+Dynamic News & Articles
+Material Light and Dark Themes
 
-Enjoy
-There are two versions available, "release" and "debug" -- the debug versions seems to work on older Android OS's.
+[Game Simulation]
+Realistic Sim Game logic with Full Game Play-by-Play Logging Option
+Mid-Season and End-Season Player progression
+Head Coach and Coordinator positions which affects player progression
+Multiple Offense and Defensive Tactics
+Offensive & Defensive player/team stat tracking
+Special Teams stats & tracking
+Off-season Coaching changes & Infraction system for balancing gameplay
+Realistic Computer Poll Logic
+Dynamic School Prestige Growth & Loss
+Standard & Medical Redshirting
+Undergrad & Graduate Transfers
+Player Suspensions and Dismissals
+Year End Awards
+Conference Television Contracts
+Team Facilities and Basic Monetary System
 
-
-DEBUGGING HELP:
-https://github.com/antdroidx/CFB-Coach/wiki/Debugging
-
-Screenshots: https://imgur.com/a/ohO8g
 
 My website: http://www.Antdroid.net
 
