@@ -27,10 +27,10 @@ Game Manual is now available at http://www.Antdroid.dev
 
 **FAQ**
 
-* * * ABOUT SAVING GAMES * * *
+*ABOUT SAVING GAMES*
 This game is currently designed to be played a full season at a time. Save files will always start at the beginning of the season in which the save was made. At the START of each season, a pop up will ask you to save the game. You can also save games just prior to recruiting!
 
-**PLAY BY PLAY**
+*PLAY BY PLAY*
 To view game play log, click SCHEDULE, then choose the game you want to view by pressing the Score Box. Then when the pop up appears, click on the blue menu bar at the top.
 
 **HELP**
