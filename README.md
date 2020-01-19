@@ -43,40 +43,40 @@ As this game is completely free and open source, any help would be appreciated. 
 Game Features include:
 
 [General]
-Career Mode: Start as a new hire coach and work your way to the top! Just don't get fired!
-Hire Coordinators to your Staff
-Import Custom Universe, Custom Rosters and Custom Coaches from text file
-Game Editor: Ability to edit team names, conference names, and coach names
-Realistic Conference and Team Structures
-Bowl Games + 4-team Playoffs including Expanded Playoffs Option
-Gigantic Names database with over 7000 first and last names
-Geographic Home Regions
-Optional Television Contract Deals
-Optional Conference Realignment Features
-Optional random Team Generation from Lower Tiers
-Optional Promotion/Relegation System Mode
-Full League, Team, Coach and Player Stats & history
-Player Awards 
-Game Summary Box Scores & Play Logging
-Dynamic News & Articles
-Material Light and Dark Themes
+* Career Mode: Start as a new hire coach and work your way to the top! Just don't get fired!
+* Hire Coordinators to your Staff
+* Import Custom Universe, Custom Rosters and Custom Coaches from text file
+* Game Editor: Ability to edit team names, conference names, and coach names
+* Realistic Conference and Team Structures
+* Bowl Games + 4-team Playoffs including Expanded Playoffs Option
+* Gigantic Names database with over 7000 first and last names
+* Geographic Home Regions
+* Optional Television Contract Deals
+* Optional Conference Realignment Features
+* Optional random Team Generation from Lower Tiers
+* Optional Promotion/Relegation System Mode
+* Full League, Team, Coach and Player Stats & history
+* Player Awards 
+* Game Summary Box Scores & Play Logging
+* Dynamic News & Articles
+* Material Light and Dark Themes
 
 [Game Simulation]
-Realistic Sim Game logic with Full Game Play-by-Play Logging Option
-Mid-Season and End-Season Player progression
-Head Coach and Coordinator positions which affects player progression
-Multiple Offense and Defensive Tactics
-Offensive & Defensive player/team stat tracking
-Special Teams stats & tracking
-Off-season Coaching changes & Infraction system for balancing gameplay
-Realistic Computer Poll Logic
-Dynamic School Prestige Growth & Loss
-Standard & Medical Redshirting
-Undergrad & Graduate Transfers
-Player Suspensions and Dismissals
-Year End Awards
-Conference Television Contracts
-Team Facilities and Basic Monetary System
+* Realistic Sim Game logic with Full Game Play-by-Play Logging Option
+* Mid-Season and End-Season Player progression
+* Head Coach and Coordinator positions which affects player progression
+* Multiple Offense and Defensive Tactics
+* Offensive & Defensive player/team stat tracking
+* Special Teams stats & tracking
+* Off-season Coaching changes & Infraction system for balancing gameplay
+* Realistic Computer Poll Logic
+* Dynamic School Prestige Growth & Loss
+* Standard & Medical Redshirting
+* Undergrad & Graduate Transfers
+* Player Suspensions and Dismissals
+* Year End Awards
+* Conference Television Contracts
+* Team Facilities and Basic Monetary System
 
 
 My website: http://www.Antdroid.dev
