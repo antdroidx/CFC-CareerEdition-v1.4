@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "antdroid.cfbcoach",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 318,
+      "versionName": "v1.4.32",
+      "outputFile": "CFC-CareerEdition-v1.4-release.apk"
+    }
+  ]
+}

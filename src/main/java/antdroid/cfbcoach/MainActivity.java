@@ -3473,7 +3473,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     public void onClick(DialogInterface dialog, int which) {
                         loadData = "coach";
                         Intent intent = new Intent(Intent.ACTION_OPEN_DOCUMENT);
-                        intent.setType("text/*");
+                        intent.setType("*/*");
                         intent.addCategory(Intent.CATEGORY_OPENABLE);
                         startActivityForResult(intent, READ_REQUEST_CODE);
                         importMoreDataPrompt();
@@ -3484,7 +3484,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     public void onClick(DialogInterface dialog, int which) {
                         loadData = "roster";
                         Intent intent = new Intent(Intent.ACTION_OPEN_DOCUMENT);
-                        intent.setType("text/*");
+                        intent.setType("*/*");
                         intent.addCategory(Intent.CATEGORY_OPENABLE);
                         startActivityForResult(intent, READ_REQUEST_CODE);
                         importMoreDataPrompt();
